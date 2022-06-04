@@ -95,6 +95,7 @@
 		79BF1730284B9263003A2A68 /* Git_Test */ = {
 			isa = PBXGroup;
 			children = (
+				79BF175F284B9472003A2A68 /* TestDirectory */,
 				79BF1731284B9263003A2A68 /* Git_TestApp.swift */,
 				79BF1733284B9263003A2A68 /* ContentView.swift */,
 				79BF1735284B9263003A2A68 /* Assets.xcassets */,
@@ -127,6 +128,13 @@
 				79BF174F284B9263003A2A68 /* Git_TestUITestsLaunchTests.swift */,
 			);
 			path = Git_TestUITests;
+			sourceTree = "<group>";
+		};
+		79BF175F284B9472003A2A68 /* TestDirectory */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = TestDirectory;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
