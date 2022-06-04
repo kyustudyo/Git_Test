@@ -17,6 +17,7 @@
 		79BF1764284B9657003A2A68 /* testFile2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1763284B9657003A2A68 /* testFile2.swift */; };
 		79BF176C284B9CA8003A2A68 /* testFile3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF176B284B9CA8003A2A68 /* testFile3.swift */; };
 		79BF176E284B9CCB003A2A68 /* testFile44.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF176D284B9CCB003A2A68 /* testFile44.swift */; };
+		79BF1770284B9E7B003A2A68 /* testFileForMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF176F284B9E7B003A2A68 /* testFileForMain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		79BF1763284B9657003A2A68 /* testFile2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFile2.swift; sourceTree = "<group>"; };
 		79BF176B284B9CA8003A2A68 /* testFile3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFile3.swift; sourceTree = "<group>"; };
 		79BF176D284B9CCB003A2A68 /* testFile44.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFile44.swift; sourceTree = "<group>"; };
+		79BF176F284B9E7B003A2A68 /* testFileForMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFileForMain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +146,7 @@
 				79BF1763284B9657003A2A68 /* testFile2.swift */,
 				79BF176B284B9CA8003A2A68 /* testFile3.swift */,
 				79BF176D284B9CCB003A2A68 /* testFile44.swift */,
+				79BF176F284B9E7B003A2A68 /* testFileForMain.swift */,
 			);
 			path = TestDirectory;
 			sourceTree = "<group>";
@@ -280,6 +283,7 @@
 			files = (
 				79BF1764284B9657003A2A68 /* testFile2.swift in Sources */,
 				79BF176C284B9CA8003A2A68 /* testFile3.swift in Sources */,
+				79BF1770284B9E7B003A2A68 /* testFileForMain.swift in Sources */,
 				79BF1734284B9263003A2A68 /* ContentView.swift in Sources */,
 				79BF1732284B9263003A2A68 /* Git_TestApp.swift in Sources */,
 				79BF176E284B9CCB003A2A68 /* testFile44.swift in Sources */,
