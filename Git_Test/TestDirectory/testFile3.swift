@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+struct test {
+    
+}
+struct test2 {
+    
+}
