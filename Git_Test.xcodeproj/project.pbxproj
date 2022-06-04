@@ -14,8 +14,8 @@
 		79BF1744284B9263003A2A68 /* Git_TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1743284B9263003A2A68 /* Git_TestTests.swift */; };
 		79BF174E284B9263003A2A68 /* Git_TestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF174D284B9263003A2A68 /* Git_TestUITests.swift */; };
 		79BF1750284B9263003A2A68 /* Git_TestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF174F284B9263003A2A68 /* Git_TestUITestsLaunchTests.swift */; };
-		79BF175E284B9294003A2A68 /* testFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF175D284B9294003A2A68 /* testFile.swift */; };
 		79BF1764284B9657003A2A68 /* testFile2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1763284B9657003A2A68 /* testFile2.swift */; };
+		79BF176A284B9C5C003A2A68 /* testFile3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1769284B9C5C003A2A68 /* testFile3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +49,7 @@
 		79BF174F284B9263003A2A68 /* Git_TestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Git_TestUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		79BF175D284B9294003A2A68 /* testFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFile.swift; sourceTree = "<group>"; };
 		79BF1763284B9657003A2A68 /* testFile2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFile2.swift; sourceTree = "<group>"; };
+		79BF1769284B9C5C003A2A68 /* testFile3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFile3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +140,7 @@
 			children = (
 				79BF175D284B9294003A2A68 /* testFile.swift */,
 				79BF1763284B9657003A2A68 /* testFile2.swift */,
+				79BF1769284B9C5C003A2A68 /* testFile3.swift */,
 			);
 			path = TestDirectory;
 			sourceTree = "<group>";
@@ -274,9 +276,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				79BF1764284B9657003A2A68 /* testFile2.swift in Sources */,
+				79BF176A284B9C5C003A2A68 /* testFile3.swift in Sources */,
 				79BF1734284B9263003A2A68 /* ContentView.swift in Sources */,
 				79BF1732284B9263003A2A68 /* Git_TestApp.swift in Sources */,
-				79BF1762284B9536003A2A68 /* testFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
