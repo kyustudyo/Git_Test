@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+struct aa {
+    let a : String
+}
