@@ -18,9 +18,10 @@
 		79BF176C284B9CA8003A2A68 /* testFile3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF176B284B9CA8003A2A68 /* testFile3.swift */; };
 		79BF176E284B9CCB003A2A68 /* testFile44.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF176D284B9CCB003A2A68 /* testFile44.swift */; };
 		79BF1770284B9E7B003A2A68 /* testFileForMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF176F284B9E7B003A2A68 /* testFileForMain.swift */; };
-		79BF1778284B9F94003A2A68 /* GGGG.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1777284B9F94003A2A68 /* GGGG.swift */; };
 		79BF1774284B9F4C003A2A68 /* testFileForMain2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1773284B9F4C003A2A68 /* testFileForMain2.swift */; };
 		79BF1776284B9F7C003A2A68 /* MAIN3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1775284B9F7C003A2A68 /* MAIN3.swift */; };
+		79BF1778284B9F94003A2A68 /* GGGG.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1777284B9F94003A2A68 /* GGGG.swift */; };
+		79BF177B284BA16A003A2A68 /* isit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF177A284BA16A003A2A68 /* isit.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,9 +58,10 @@
 		79BF176B284B9CA8003A2A68 /* testFile3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFile3.swift; sourceTree = "<group>"; };
 		79BF176D284B9CCB003A2A68 /* testFile44.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFile44.swift; sourceTree = "<group>"; };
 		79BF176F284B9E7B003A2A68 /* testFileForMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFileForMain.swift; sourceTree = "<group>"; };
-		79BF1777284B9F94003A2A68 /* GGGG.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GGGG.swift; sourceTree = "<group>"; };
 		79BF1773284B9F4C003A2A68 /* testFileForMain2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFileForMain2.swift; sourceTree = "<group>"; };
 		79BF1775284B9F7C003A2A68 /* MAIN3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAIN3.swift; sourceTree = "<group>"; };
+		79BF1777284B9F94003A2A68 /* GGGG.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GGGG.swift; sourceTree = "<group>"; };
+		79BF177A284BA16A003A2A68 /* isit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = isit.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 		79BF1730284B9263003A2A68 /* Git_Test */ = {
 			isa = PBXGroup;
 			children = (
+				79BF1779284BA15B003A2A68 /* IsItpossible */,
 				79BF1760284B9520003A2A68 /* TestDirectory */,
 				79BF1731284B9263003A2A68 /* Git_TestApp.swift */,
 				79BF1733284B9263003A2A68 /* ContentView.swift */,
@@ -158,6 +161,14 @@
 				79BF1775284B9F7C003A2A68 /* MAIN3.swift */,
 			);
 			path = TestDirectory;
+			sourceTree = "<group>";
+		};
+		79BF1779284BA15B003A2A68 /* IsItpossible */ = {
+			isa = PBXGroup;
+			children = (
+				79BF177A284BA16A003A2A68 /* isit.swift */,
+			);
+			path = IsItpossible;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -298,6 +309,7 @@
 				79BF1732284B9263003A2A68 /* Git_TestApp.swift in Sources */,
 				79BF1774284B9F4C003A2A68 /* testFileForMain2.swift in Sources */,
 				79BF1776284B9F7C003A2A68 /* MAIN3.swift in Sources */,
+				79BF177B284BA16A003A2A68 /* isit.swift in Sources */,
 				79BF176E284B9CCB003A2A68 /* testFile44.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
