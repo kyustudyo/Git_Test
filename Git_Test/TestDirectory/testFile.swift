@@ -8,5 +8,5 @@
 import Foundation
 
 struct Test {
-    
+    let testBranchCreated: String
 }
