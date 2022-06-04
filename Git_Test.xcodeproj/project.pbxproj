@@ -14,6 +14,7 @@
 		79BF1744284B9263003A2A68 /* Git_TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1743284B9263003A2A68 /* Git_TestTests.swift */; };
 		79BF174E284B9263003A2A68 /* Git_TestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF174D284B9263003A2A68 /* Git_TestUITests.swift */; };
 		79BF1750284B9263003A2A68 /* Git_TestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF174F284B9263003A2A68 /* Git_TestUITestsLaunchTests.swift */; };
+		79BF1762284B9536003A2A68 /* testFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1761284B9536003A2A68 /* testFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		79BF1749284B9263003A2A68 /* Git_TestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Git_TestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		79BF174D284B9263003A2A68 /* Git_TestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Git_TestUITests.swift; sourceTree = "<group>"; };
 		79BF174F284B9263003A2A68 /* Git_TestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Git_TestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		79BF1761284B9536003A2A68 /* testFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,7 +97,7 @@
 		79BF1730284B9263003A2A68 /* Git_Test */ = {
 			isa = PBXGroup;
 			children = (
-				79BF175F284B9472003A2A68 /* TestDirectory */,
+				79BF1760284B9520003A2A68 /* TestDirectory */,
 				79BF1731284B9263003A2A68 /* Git_TestApp.swift */,
 				79BF1733284B9263003A2A68 /* ContentView.swift */,
 				79BF1735284B9263003A2A68 /* Assets.xcassets */,
@@ -130,9 +132,10 @@
 			path = Git_TestUITests;
 			sourceTree = "<group>";
 		};
-		79BF175F284B9472003A2A68 /* TestDirectory */ = {
+		79BF1760284B9520003A2A68 /* TestDirectory */ = {
 			isa = PBXGroup;
 			children = (
+				79BF1761284B9536003A2A68 /* testFile.swift */,
 			);
 			path = TestDirectory;
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 			files = (
 				79BF1734284B9263003A2A68 /* ContentView.swift in Sources */,
 				79BF1732284B9263003A2A68 /* Git_TestApp.swift in Sources */,
+				79BF1762284B9536003A2A68 /* testFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
