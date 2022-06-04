@@ -21,6 +21,7 @@
 		79BF1774284B9F4C003A2A68 /* testFileForMain2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1773284B9F4C003A2A68 /* testFileForMain2.swift */; };
 		79BF1776284B9F7C003A2A68 /* MAIN3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1775284B9F7C003A2A68 /* MAIN3.swift */; };
 		79BF1778284B9F94003A2A68 /* GGGG.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1777284B9F94003A2A68 /* GGGG.swift */; };
+		79BF177E284BA3FD003A2A68 /* abcc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF177D284BA3FD003A2A68 /* abcc.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		79BF1773284B9F4C003A2A68 /* testFileForMain2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFileForMain2.swift; sourceTree = "<group>"; };
 		79BF1775284B9F7C003A2A68 /* MAIN3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAIN3.swift; sourceTree = "<group>"; };
 		79BF1777284B9F94003A2A68 /* GGGG.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GGGG.swift; sourceTree = "<group>"; };
+		79BF177D284BA3FD003A2A68 /* abcc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = abcc.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 		79BF1730284B9263003A2A68 /* Git_Test */ = {
 			isa = PBXGroup;
 			children = (
+				79BF177C284BA3EF003A2A68 /* abc */,
 				79BF1760284B9520003A2A68 /* TestDirectory */,
 				79BF1731284B9263003A2A68 /* Git_TestApp.swift */,
 				79BF1733284B9263003A2A68 /* ContentView.swift */,
@@ -158,6 +161,14 @@
 				79BF1775284B9F7C003A2A68 /* MAIN3.swift */,
 			);
 			path = TestDirectory;
+			sourceTree = "<group>";
+		};
+		79BF177C284BA3EF003A2A68 /* abc */ = {
+			isa = PBXGroup;
+			children = (
+				79BF177D284BA3FD003A2A68 /* abcc.swift */,
+			);
+			path = abc;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -298,6 +309,7 @@
 				79BF1732284B9263003A2A68 /* Git_TestApp.swift in Sources */,
 				79BF1774284B9F4C003A2A68 /* testFileForMain2.swift in Sources */,
 				79BF1776284B9F7C003A2A68 /* MAIN3.swift in Sources */,
+				79BF177E284BA3FD003A2A68 /* abcc.swift in Sources */,
 				79BF176E284B9CCB003A2A68 /* testFile44.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
