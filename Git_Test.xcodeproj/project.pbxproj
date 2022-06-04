@@ -19,6 +19,7 @@
 		79BF176E284B9CCB003A2A68 /* testFile44.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF176D284B9CCB003A2A68 /* testFile44.swift */; };
 		79BF1770284B9E7B003A2A68 /* testFileForMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF176F284B9E7B003A2A68 /* testFileForMain.swift */; };
 		79BF1774284B9F4C003A2A68 /* testFileForMain2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1773284B9F4C003A2A68 /* testFileForMain2.swift */; };
+		79BF1776284B9F7C003A2A68 /* MAIN3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1775284B9F7C003A2A68 /* MAIN3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		79BF176D284B9CCB003A2A68 /* testFile44.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFile44.swift; sourceTree = "<group>"; };
 		79BF176F284B9E7B003A2A68 /* testFileForMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFileForMain.swift; sourceTree = "<group>"; };
 		79BF1773284B9F4C003A2A68 /* testFileForMain2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFileForMain2.swift; sourceTree = "<group>"; };
+		79BF1775284B9F7C003A2A68 /* MAIN3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAIN3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				79BF176D284B9CCB003A2A68 /* testFile44.swift */,
 				79BF176F284B9E7B003A2A68 /* testFileForMain.swift */,
 				79BF1773284B9F4C003A2A68 /* testFileForMain2.swift */,
+				79BF1775284B9F7C003A2A68 /* MAIN3.swift */,
 			);
 			path = TestDirectory;
 			sourceTree = "<group>";
@@ -290,6 +293,7 @@
 				79BF1734284B9263003A2A68 /* ContentView.swift in Sources */,
 				79BF1732284B9263003A2A68 /* Git_TestApp.swift in Sources */,
 				79BF1774284B9F4C003A2A68 /* testFileForMain2.swift in Sources */,
+				79BF1776284B9F7C003A2A68 /* MAIN3.swift in Sources */,
 				79BF176E284B9CCB003A2A68 /* testFile44.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
