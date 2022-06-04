@@ -6,10 +6,3 @@
 //
 
 import Foundation
-<<<<<<< HEAD
-=======
-
-struct Test {
-    let testBranchCreated: String
-}
->>>>>>> testBranch
