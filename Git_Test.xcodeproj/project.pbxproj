@@ -30,6 +30,7 @@
 		79BF17BE284DE410003A2A68 /* asdasdasdasdasd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF17BD284DE410003A2A68 /* asdasdasdasdasd.swift */; };
 		79BF17C2284DE535003A2A68 /* bbbbbb.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF17C1284DE535003A2A68 /* bbbbbb.swift */; };
 		79BF17C4284DE673003A2A68 /* asdvasdv.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF17C3284DE673003A2A68 /* asdvasdv.swift */; };
+		79BF17C6284DE6E7003A2A68 /* asdvasdvasdv.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF17C5284DE6E7003A2A68 /* asdvasdvasdv.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -78,6 +79,7 @@
 		79BF17BD284DE410003A2A68 /* asdasdasdasdasd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asdasdasdasdasd.swift; sourceTree = "<group>"; };
 		79BF17C1284DE535003A2A68 /* bbbbbb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bbbbbb.swift; sourceTree = "<group>"; };
 		79BF17C3284DE673003A2A68 /* asdvasdv.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asdvasdv.swift; sourceTree = "<group>"; };
+		79BF17C5284DE6E7003A2A68 /* asdvasdvasdv.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asdvasdvasdv.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -199,6 +201,7 @@
 				79BF17BD284DE410003A2A68 /* asdasdasdasdasd.swift */,
 				79BF17C1284DE535003A2A68 /* bbbbbb.swift */,
 				79BF17C3284DE673003A2A68 /* asdvasdv.swift */,
+				79BF17C5284DE6E7003A2A68 /* asdvasdvasdv.swift */,
 			);
 			path = maina;
 			sourceTree = "<group>";
@@ -337,6 +340,7 @@
 				79BF17C2284DE535003A2A68 /* bbbbbb.swift in Sources */,
 				79BF176C284B9CA8003A2A68 /* testFile3.swift in Sources */,
 				79BF17C4284DE673003A2A68 /* asdvasdv.swift in Sources */,
+				79BF17C6284DE6E7003A2A68 /* asdvasdvasdv.swift in Sources */,
 				79BF1770284B9E7B003A2A68 /* testFileForMain.swift in Sources */,
 				79BF17BA284DE304003A2A68 /* asdasd.swift in Sources */,
 				79BF1780284BA4D7003A2A68 /* addeded.swift in Sources */,
