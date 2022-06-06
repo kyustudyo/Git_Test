@@ -28,6 +28,7 @@
 		79BF17BA284DE304003A2A68 /* asdasd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF17B9284DE304003A2A68 /* asdasd.swift */; };
 		79BF17BC284DE3C2003A2A68 /* mainmainamainai.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF17BB284DE3C2003A2A68 /* mainmainamainai.swift */; };
 		79BF17BE284DE410003A2A68 /* asdasdasdasdasd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF17BD284DE410003A2A68 /* asdasdasdasdasd.swift */; };
+		79BF17C2284DE535003A2A68 /* bbbbbb.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF17C1284DE535003A2A68 /* bbbbbb.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,6 +75,7 @@
 		79BF17B9284DE304003A2A68 /* asdasd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asdasd.swift; sourceTree = "<group>"; };
 		79BF17BB284DE3C2003A2A68 /* mainmainamainai.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mainmainamainai.swift; sourceTree = "<group>"; };
 		79BF17BD284DE410003A2A68 /* asdasdasdasdasd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asdasdasdasdasd.swift; sourceTree = "<group>"; };
+		79BF17C1284DE535003A2A68 /* bbbbbb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bbbbbb.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,6 +195,7 @@
 				79BF17B9284DE304003A2A68 /* asdasd.swift */,
 				79BF17BB284DE3C2003A2A68 /* mainmainamainai.swift */,
 				79BF17BD284DE410003A2A68 /* asdasdasdasdasd.swift */,
+				79BF17C1284DE535003A2A68 /* bbbbbb.swift */,
 			);
 			path = maina;
 			sourceTree = "<group>";
@@ -328,6 +331,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				79BF1764284B9657003A2A68 /* testFile2.swift in Sources */,
+				79BF17C2284DE535003A2A68 /* bbbbbb.swift in Sources */,
 				79BF176C284B9CA8003A2A68 /* testFile3.swift in Sources */,
 				79BF1770284B9E7B003A2A68 /* testFileForMain.swift in Sources */,
 				79BF17BA284DE304003A2A68 /* asdasd.swift in Sources */,
