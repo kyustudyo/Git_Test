@@ -27,6 +27,7 @@
 		79BF17B8284DE253003A2A68 /* minaianain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF17B7284DE253003A2A68 /* minaianain.swift */; };
 		79BF17BA284DE304003A2A68 /* asdasd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF17B9284DE304003A2A68 /* asdasd.swift */; };
 		79BF17BC284DE3C2003A2A68 /* mainmainamainai.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF17BB284DE3C2003A2A68 /* mainmainamainai.swift */; };
+		79BF17BE284DE410003A2A68 /* asdasdasdasdasd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF17BD284DE410003A2A68 /* asdasdasdasdasd.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +73,7 @@
 		79BF17B7284DE253003A2A68 /* minaianain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = minaianain.swift; sourceTree = "<group>"; };
 		79BF17B9284DE304003A2A68 /* asdasd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asdasd.swift; sourceTree = "<group>"; };
 		79BF17BB284DE3C2003A2A68 /* mainmainamainai.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mainmainamainai.swift; sourceTree = "<group>"; };
+		79BF17BD284DE410003A2A68 /* asdasdasdasdasd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asdasdasdasdasd.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -190,6 +192,7 @@
 				79BF17B7284DE253003A2A68 /* minaianain.swift */,
 				79BF17B9284DE304003A2A68 /* asdasd.swift */,
 				79BF17BB284DE3C2003A2A68 /* mainmainamainai.swift */,
+				79BF17BD284DE410003A2A68 /* asdasdasdasdasd.swift */,
 			);
 			path = maina;
 			sourceTree = "<group>";
@@ -332,6 +335,7 @@
 				79BF1778284B9F94003A2A68 /* GGGG.swift in Sources */,
 				79BF1734284B9263003A2A68 /* ContentView.swift in Sources */,
 				79BF1782284BA5A3003A2A68 /* abcc.swift in Sources */,
+				79BF17BE284DE410003A2A68 /* asdasdasdasdasd.swift in Sources */,
 				79BF17BC284DE3C2003A2A68 /* mainmainamainai.swift in Sources */,
 				79BF1732284B9263003A2A68 /* Git_TestApp.swift in Sources */,
 				79BF1774284B9F4C003A2A68 /* testFileForMain2.swift in Sources */,
