@@ -25,6 +25,7 @@
 		79BF1782284BA5A3003A2A68 /* abcc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF1781284BA5A3003A2A68 /* abcc.swift */; };
 		79BF17B5284DE133003A2A68 /* asdvsdvasdv.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF17B4284DE133003A2A68 /* asdvsdvasdv.swift */; };
 		79BF17B8284DE253003A2A68 /* minaianain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF17B7284DE253003A2A68 /* minaianain.swift */; };
+		79BF17BA284DE304003A2A68 /* asdasd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BF17B9284DE304003A2A68 /* asdasd.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +69,7 @@
 		79BF1781284BA5A3003A2A68 /* abcc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = abcc.swift; sourceTree = "<group>"; };
 		79BF17B4284DE133003A2A68 /* asdvsdvasdv.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asdvsdvasdv.swift; sourceTree = "<group>"; };
 		79BF17B7284DE253003A2A68 /* minaianain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = minaianain.swift; sourceTree = "<group>"; };
+		79BF17B9284DE304003A2A68 /* asdasd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asdasd.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -184,6 +186,7 @@
 			isa = PBXGroup;
 			children = (
 				79BF17B7284DE253003A2A68 /* minaianain.swift */,
+				79BF17B9284DE304003A2A68 /* asdasd.swift */,
 			);
 			path = maina;
 			sourceTree = "<group>";
@@ -321,6 +324,7 @@
 				79BF1764284B9657003A2A68 /* testFile2.swift in Sources */,
 				79BF176C284B9CA8003A2A68 /* testFile3.swift in Sources */,
 				79BF1770284B9E7B003A2A68 /* testFileForMain.swift in Sources */,
+				79BF17BA284DE304003A2A68 /* asdasd.swift in Sources */,
 				79BF1780284BA4D7003A2A68 /* addeded.swift in Sources */,
 				79BF1778284B9F94003A2A68 /* GGGG.swift in Sources */,
 				79BF1734284B9263003A2A68 /* ContentView.swift in Sources */,
